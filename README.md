@@ -1,6 +1,6 @@
 <!--<img align="right" alt="My avatar from figma - www.figma.com" height="150" src="https://i.imgur.com/Z6uSuhb.png">-->
 
-### Hola! <img src="/hi.gif" width="24"> 
+### Hola! <img src="/hand-hello.gif" width="24"> 
 <p>Soy <a href="https://juliodaza.com">Julio Daza</a>, Fullstack developer de <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg" width="18"/> <b>Colombia. </b><br>
 Soy un apasionado del código, entusiasta de la IA y me encanta crear soluciones completas y funcionales.</p>
 
